@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS3, Kotlin, JavaScript**
 
-- 📫 How to reach me **<strong>permanentjavi@gmail.com</strong>**
+- 📫 How to reach me **permanentjavi@gmail.com**
 
-<h3 align="left">Connect with me: permanentjavi@gmail.com</h3>
 <p align="left">
 </p>
 

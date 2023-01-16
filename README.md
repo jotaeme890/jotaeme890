@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Jotaeme</h1>
 
-- 👋 Soy Javier Miguel Martín, actualmente soy estudiante del CPIFP Nuevo, en Málaga.
+- 👋 I'm Javier Miguel Martín, I am currently a student at CPIFP Nuevo, in Malaga..
 
-- 🌱 Actualmente estoy aprendiendo **Java, HTML, CSS3, Kotlin, JavaScript, MySQL, Bootstrap, ...**
+- 🌱 I'm learning **Java, HTML, CSS3, Kotlin, JavaScript, MySQL, Bootstrap, ...**
 
-- 📫 Puedes contactarme **permanentjavi@gmail.com**
+- 📫 Contact me **permanentjavi@gmail.com**
 
 
 <h3 align="left">Lenguajes:</h3>

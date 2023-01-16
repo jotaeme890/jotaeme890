@@ -1,4 +1,4 @@
-- 👋 I'm Javier Miguel Martín, I am currently a student at **CPIFP Nuevo**, in Malaga..
+- 👋 I'm Javier Miguel Martín, I am currently a student at **CPIFP Nuevo**, in Málaga..
 
 - 🌱 I'm learning **Java, HTML, CSS3, Kotlin, JavaScript, MySQL, Bootstrap, ...**
 

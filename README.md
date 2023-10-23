@@ -1,6 +1,6 @@
 - 👋 I'm Javier Miguel Martín, I am currently a student at **CPIFP Alan Turing**, in Malaga.
 
-- 🌱 I'm learning **Java, HTML, CSS3, Kotlin, JavaScript, MySQL, Python...**
+- 🌱 I'm learning **Java, HTML, CSS3, JavaScript, MySQL, Python, Angular, Kotlin...**
 
 - 📫 Contact me **permanentjavi@gmail.com**
 
